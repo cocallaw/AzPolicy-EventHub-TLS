@@ -6,7 +6,7 @@ This example Azure Policy checks the minimumTlsVersion of an Azure Event Hub res
 
 ## Remediation Permissions
 
-The remediation task requires the following permissions to be assigned to the user or system  or service principal that will be executing the remediation task:
+For remediation the following permissions need to be assigned to the user or system assigned managed identity that will be executing the remediation task:
 
 | Role Definition             | ID                                   |
 |-----------------------------|--------------------------------------|
