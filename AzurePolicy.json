@@ -25,8 +25,7 @@
             "effect": "modify",
             "details": {
                 "roleDefinitionIds": [
-                    "/providers/Microsoft.Authorization/roleDefinitions/f526a384-b230-433a-b45c-95f59c4a2dec",
-                    "/providers/Microsoft.Authorization/roleDefinitions/36243c78-bf99-498c-9df9-86d9f8d28608"
+                    "/providers/Microsoft.Authorization/roleDefinitions/f526a384-b230-433a-b45c-95f59c4a2dec"
                 ],
                 "operations": [
                     {
